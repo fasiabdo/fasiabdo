@@ -1,8 +1,8 @@
-- 👋 Hi, I’m fasiabd elhafid
-- 👀 I’m interested in programming desktop and ui design applications
-- 🌱 I’m currently learning it developpment at ista/ofppt
+- 👋 Hi, I’m fasi abdelhafid
+- 👀 I’m interested in programming desktop client-server applications using c# and SQLServer, web applications using ASP.NET
+- 🌱 I’m currently learning IT developpment at ista/ofppt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (fasi.abdelhafid@gmail.com) or (+212607539461)
 
 <!---
 fasiabdo/fasiabdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
